@@ -1,3 +1,3 @@
-%w{ curl zip make }.each do | a_package |
+%w{ curl zip make zsh }.each do | a_package |
   package a_package
 end
